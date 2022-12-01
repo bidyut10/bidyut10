@@ -1,17 +1,26 @@
-<h1 align="center">HELLO, I'M BIDYUT KUNDU</h1>
+<h1 align="center">Hello, I'm Bidyut Kundu</h1>
 <h4 align="center">An aspiring Backend Web Developer with 1000+ hours of coding
-experience in JavaScript. </br> I'm a highly passionate Backend
+experience </br>  in JavaScript. I'm a highly passionate Backend
 developer, who loves creating APIs and working with Database.</h4>
 
 
 
-🧑‍💻 Backend Stack   **{... Javascript, Node JS, MongoDb, Express JS, Rest Api }**
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif">
 
-💻 Frontend Stack   **{... HTML, CSS , React JS(basics), Figma }**
 
-✨ Familiar With   **{... AWS S3, Redis, RazorPay Payment GateWay System, Cors }**
+🧑‍💻 Backend Stack   
+          **{... Javascript, Node JS, MongoDb, Express JS, Rest Api }**
+
+💻 Frontend Stack   
+          **{... HTML, CSS , React JS(basics), Figma }**
+
+✨ Familiar With   
+          **{... AWS S3, Redis, RazorPay Payment GateWay System, Cors }**
+
+
 
 🧑‍💻 **Total Five Industry ready Backend Projects, One Payment Gateway Mini Project And One PortFolio Project**
+
 
 📫 How to reach me **bidyut34268@gmail.com**
 
