@@ -9,7 +9,7 @@ developer, who loves creating APIs and working with Database.</h4>
 
 
 🧑‍💻 Backend Stack   
-          **{... Javascript, Node JS, MongoDb, Express JS, Rest Api }**
+          **{... Javascript, Node JS, MongoDb, Express JS, Rest Api}**
 
 💻 Frontend Stack   
           **{... HTML, CSS , React JS(basics), Figma }**
