@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Bidyut Kundu.</h1>
+<h1 align="center">HELLO, I'M BIDYUT KUNDU</h1>
 <h4 align="center">An aspiring Backend Web Developer with 1000+ hours of coding
 experience in JavaScript. </br> I'm a highly passionate Backend
 developer, who loves creating APIs and working with Database.</h4>
