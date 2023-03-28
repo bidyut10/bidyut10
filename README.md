@@ -12,16 +12,7 @@
 * Worked with Typescript and WebSocket.io to improve application functionality and security.
 
 
-
-
-
-
-
-
 <br/>
-
-<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
-
 
 # SKILLS AND TOOLS
 
@@ -58,7 +49,7 @@
 
 
 ### Tools
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="" width="40" height="40"/> </a> 
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://icao.gallerycdn.vsassets.io/extensions/icao/electron-vue/3.2.0/1656576781824/Microsoft.VisualStudio.Services.Icons.Default" alt="" width="40" height="40"/> </a> 
 <a href="/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
