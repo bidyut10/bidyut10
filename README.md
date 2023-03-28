@@ -23,7 +23,7 @@
 # SKILLS AND TOOLS
 
 
-### 🧑‍💻Backend Stack 
+### Backend Stack 
 
 <p align="left">
 <a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz7EiUUb7WDplItB0QY-zAJyLISkjOVsiaCAMX23VKKQ-6_SeiyY9pW8IvVCxaZRDf_g&usqp=CAU" alt="" width="40" height="40" /> </a> 
@@ -35,7 +35,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
 </p>
 
-### 💻Frontend Stack 
+### Frontend Stack 
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="css3" width="40" height="40"/> </a> 
@@ -43,7 +43,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/> </a> 
 </p>
 
-### ✨Familiar With
+### Familiar With
   
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="bootstrap" width="40" height="40"/> </a> 
@@ -67,7 +67,7 @@
 # PROJECTS
 </br>
 
-## Bishnupur Tourism: Full Day Tour Booking Website
+## 1. Bishnupur Tourism: Full Day Tour Booking Website
 ![Website Preview 1](https://i.postimg.cc/C1NjCSRB/Picsart-23-03-27-13-59-06-545.jpg)
 
 ### Live View:  https://bishnupurtourism.netlify.app <br/>
@@ -95,7 +95,7 @@
 
 </br>
 
-## Techiify: Blogging Website
+## 2. Techiify: Blogging Website
 ![Website Preview 1](https://i.postimg.cc/9FsRTTPj/Picsart-23-03-28-17-25-57-708-2.jpg)
 
 ### Live View:  https://techiify.netlify.app <br/>
@@ -122,7 +122,7 @@
 
 </br>
 
-## Portfolio: Personal Portfolio Website
+## 3. Portfolio: Personal Portfolio Website
 ![Website Preview 1](https://i.postimg.cc/pLYWTnqC/Picsart-23-03-28-17-31-19-067-2.jpg)
 
 ### Live View:  https://bidyutkundu.netlify.app/ <br/>
@@ -143,7 +143,7 @@
 </br>
 
 
-## Ecommerce Management  Backend Project
+## 4. Ecommerce Management  Backend Project
 
 ### Source Code:  https://github.com/bidyut10/project-productsManagementGroup.git <br/>
 ### Features 
@@ -167,7 +167,7 @@
 </br>
 
 
-## Book Management Backend Project
+## 5. Book Management Backend Project
 
 ### Source Code:  https://github.com/bidyut10/BookManagement <br/>
 ### Features 
@@ -192,7 +192,7 @@ leave reviews for other users' books and read all the books in the collection.
 
 
 
-## URL-Shortener Backend Project
+## 6. URL-Shortener Backend Project
 
 ### Source Code:  https://github.com/bidyut10/urlShortner <br/>
 ### Features 
@@ -218,7 +218,7 @@ well as to provide fast access to the original long URLs through caching.
 
 
 
-## College-Intern Backend Project
+## 7. College-Intern Backend Project
 
 ### Source Code:  https://github.com/bidyut10/CollegeIntern <br/>
 ### Features 
