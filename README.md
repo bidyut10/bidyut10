@@ -96,7 +96,7 @@
 </br>
 
 ## Techiify: Blogging Website
-![Website Preview 1](https://i.postimg.cc/Xq8TcVFM/Picsart-23-03-28-17-25-57-708.jpg)
+![Website Preview 1](https://i.postimg.cc/9FsRTTPj/Picsart-23-03-28-17-25-57-708-2.jpg)
 
 ### Live View:  https://techiify.netlify.app <br/>
 
@@ -123,7 +123,7 @@
 </br>
 
 ## Portfolio: Personal Portfolio Website
-![Website Preview 1](https://i.postimg.cc/L5LW4j23/Picsart-23-03-28-17-31-19-067.jpg)
+![Website Preview 1](https://i.postimg.cc/pLYWTnqC/Picsart-23-03-28-17-31-19-067-2.jpg)
 
 ### Live View:  https://bidyutkundu.netlify.app/ <br/>
 
@@ -139,7 +139,109 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
 </p>
 
+
 </br>
+
+
+## Ecommerce Management  Backend Project
+
+### Source Code:  https://github.com/bidyut10/project-productsManagementGroup.git <br/>
+### Features 
+* Developed a reliable and scalable platform for managing and operating an online store.
+ <br/>
+* Used modern technologies to enable efficient and effective management of the store and provide a seamless experience for customers. <br/>
+* Implemented features like user authentication, cart management, and order processing JWT (JSON Web Token) and bcrypt for secure password hashing. <br/>
+* Utilized AWS S3 for storing and managing files like product images and other media.
+
+### Tech Stack 
+<p align="left">
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz7EiUUb7WDplItB0QY-zAJyLISkjOVsiaCAMX23VKKQ-6_SeiyY9pW8IvVCxaZRDf_g&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1485/1485231.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" alt="javascript" width="40" height="40"/> </a> <a href="_" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="ts" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
+</p>
+
+</br>
+
+
+## Book Management Backend Project
+
+### Source Code:  https://github.com/bidyut10/BookManagement <br/>
+### Features 
+* This Book Management backend project is designed to provide a comprehensive 
+and efficient way to track and organize a collection of books. It utilizes modern 
+technologies to enable the management of the collection and to provide a user- 
+friendly interface for users to interact with the system. In addition, users can 
+leave reviews for other users' books and read all the books in the collection.
+
+### Tech Stack 
+<p align="left">
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz7EiUUb7WDplItB0QY-zAJyLISkjOVsiaCAMX23VKKQ-6_SeiyY9pW8IvVCxaZRDf_g&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1485/1485231.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
+</p>
+
+</br>
+
+
+
+## URL-Shortener Backend Project
+
+### Source Code:  https://github.com/bidyut10/urlShortner <br/>
+### Features 
+* This URL shortener backend project is a system that enables the creation and 
+management of shortened URLs. It allows users to input a long URL and receive 
+a shorter, unique URL in return, which can be easily shared and accessed and as 
+well as to provide fast access to the original long URLs through caching.
+
+### Tech Stack 
+<p align="left">
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz7EiUUb7WDplItB0QY-zAJyLISkjOVsiaCAMX23VKKQ-6_SeiyY9pW8IvVCxaZRDf_g&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1485/1485231.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/314/85946bfe-0597-42b4-9dd2-24fb7f2fd438.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
+</p>
+
+</br>
+
+
+
+
+
+## College-Intern Backend Project
+
+### Source Code:  https://github.com/bidyut10/urlShortner <br/>
+### Features 
+* This College-intern backend project is designed to provide a comprehensive 
+and efficient way to manage and access student information for a college or 
+university. It utilizes modern technologies to enable the storage and updating 
+of student records, generation of reports, and secure access to student 
+information for authorized users.
+
+### Tech Stack 
+<p align="left">
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz7EiUUb7WDplItB0QY-zAJyLISkjOVsiaCAMX23VKKQ-6_SeiyY9pW8IvVCxaZRDf_g&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1485/1485231.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
+</p>
+
+</br>
+
+
+
 
 📫 How to reach me **bidyut34268@gmail.com**
 
