@@ -295,20 +295,23 @@ information for authorized users.
 </br>
 
 # Connect with me
+</br>
+
 <p align="left">
 
-<a href="https://linkedin.com/in/bidyut kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bidyut kundu" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_illustratorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_illustratorr" height="30" width="40" /></a>
-  <a href="https://twitter.com/bidyutkundu12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bidyutkundu12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bidyut-kundu-4ba406242" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="bidyut kundu" height="35" width="35" /></a>
+<a href="https://instagram.com/mr_illustratorr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" alt="mr_illustratorr" height="40" width="40" /></a>
+  <a href="https://twitter.com/bidyutkundu12" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="bidyutkundu12" height="35" width="35" /></a>
 </p>
 </br>
+
 📫 How to reach me 
 
-**bidyut34268@gmail.com**
+✉ **bidyut34268@gmail.com**
 
 🔎 https://bidyutkundu.netlify.app/
 
 </br>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support</h3>
 <p><a href="https://www.buymeacoffee.com/bidyutkundu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bidyut10" /></a></p><br><br>
