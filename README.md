@@ -1,5 +1,5 @@
 # Hello, I'm Bidyut Kundu
-### I have experience in developing both frontend and backend systems. I have expertise in using technologies like Node.js, React, and MongoDB to build scalable and robust web applications. I am skilled in creating RESTful APIs for frontend developers to consume and have experience in database schema design and management using tools like Mongoose. I am also proficient in implementing security measures like JWT authentication and input validation techniques to ensure the safety of the backend system. Additionally, I have worked with technologies like Typescript and WebSocket.io to improve application functionality and security.
+I have experience in developing both frontend and backend systems. I have expertise in using technologies like Node.js, React, and MongoDB to build scalable and robust web applications. I am skilled in creating RESTful APIs for frontend developers to consume and have experience in database schema design and management using tools like Mongoose. I am also proficient in implementing security measures like JWT authentication and input validation techniques to ensure the safety of the backend system. Additionally, I have worked with technologies like Typescript and WebSocket.io to improve application functionality and security.
 <br/>
 
 # EXPERIENCE 
