@@ -14,6 +14,8 @@ Worked with Typescript and WebSocket.io to improve application functionality and
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif">
 
+</br>
+<h2>SKILLS AND TOOLS</h2>
 
 🧑‍💻**Backend Stack**   
 <p align="left">
