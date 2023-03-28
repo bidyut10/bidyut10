@@ -247,14 +247,7 @@ information for authorized users.
 
 </br>
 
-# Connect with me
-<p align="left">
 
-<a href="https://linkedin.com/in/bidyut kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bidyut kundu" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_illustratorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_illustratorr" height="30" width="40" /></a>
-  <a href="https://twitter.com/bidyutkundu12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bidyutkundu12" height="30" width="40" /></a>
-</p>
-</br>
 
 ## 8. Group Chat Server with Authentication
 
@@ -301,7 +294,14 @@ information for authorized users.
 
 </br>
 
+# Connect with me
+<p align="left">
 
+<a href="https://linkedin.com/in/bidyut kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bidyut kundu" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_illustratorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_illustratorr" height="30" width="40" /></a>
+  <a href="https://twitter.com/bidyutkundu12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bidyutkundu12" height="30" width="40" /></a>
+</p>
+</br>
 📫 How to reach me 
 
 **bidyut34268@gmail.com**
