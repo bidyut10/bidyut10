@@ -23,7 +23,7 @@
 # SKILLS AND TOOLS
 
 
-## 🧑‍💻Backend Stack 
+### 🧑‍💻Backend Stack 
 
 <p align="left">
 <a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz7EiUUb7WDplItB0QY-zAJyLISkjOVsiaCAMX23VKKQ-6_SeiyY9pW8IvVCxaZRDf_g&usqp=CAU" alt="" width="40" height="40" /> </a> 
@@ -35,7 +35,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
 </p>
 
-## 💻Frontend Stack 
+### 💻Frontend Stack 
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="css3" width="40" height="40"/> </a> 
@@ -43,7 +43,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/> </a> 
 </p>
 
-## ✨Familiar With
+### ✨Familiar With
   
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="bootstrap" width="40" height="40"/> </a> 
@@ -54,7 +54,7 @@
 </p>
 
 
-## Tools
+### Tools
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="" width="40" height="40"/> </a> 
 <a href="/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
