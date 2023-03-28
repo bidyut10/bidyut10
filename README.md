@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Bidyut Kundu</h1>
+# Hello, I'm Bidyut Kundu
 
 # EXPERIENCE 
 ## FunctionUp || Backend Developer Trainee (Internship)     [May 22- FEB 23]
@@ -220,7 +220,7 @@ well as to provide fast access to the original long URLs through caching.
 
 ## College-Intern Backend Project
 
-### Source Code:  https://github.com/bidyut10/urlShortner <br/>
+### Source Code:  https://github.com/bidyut10/CollegeIntern <br/>
 ### Features 
 * This College-intern backend project is designed to provide a comprehensive 
 and efficient way to manage and access student information for a college or 
@@ -243,20 +243,26 @@ information for authorized users.
 
 
 
-📫 How to reach me **bidyut34268@gmail.com**
-
-🔎 https://bidyutkundu.netlify.app/
 
 
-<h3 align="left">Connect with me:</h3>
+</br>
+
+# Connect with me
 <p align="left">
 
 <a href="https://linkedin.com/in/bidyut kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bidyut kundu" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_illustratorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_illustratorr" height="30" width="40" /></a>
   <a href="https://twitter.com/bidyutkundu12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bidyutkundu12" height="30" width="40" /></a>
 </p>
+</br>
 
+📫 How to reach me 
 
+**bidyut34268@gmail.com**
+
+🔎 https://bidyutkundu.netlify.app/
+
+</br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bidyutkundu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bidyut10" /></a></p><br><br>
