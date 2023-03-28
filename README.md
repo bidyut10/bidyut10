@@ -256,6 +256,52 @@ information for authorized users.
 </p>
 </br>
 
+## 8. Group Chat Server with Authentication
+
+### Source Code:  https://github.com/bidyut10/chat-application-backend-apis <br/>
+### Features 
+* This project is a real-time chat application developed using Node.js, Express and the Websockt framework. It incorporates websockets to enable instantaneous communication between clients. The server-side code utilizes MongoDB as a database, and the chat messages are stored in a chatModel schema. JSON Web Tokens (JWT) are employed to provide secure authentication and ensure that only authorized users can access the chat. Additionally, the project includes a separate file for defining routes used by the Express application. Overall, this project offers a robust and scalable solution for real-time chat communication, with a focus on security and performance.
+
+### Tech Stack 
+<p align="left">
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz7EiUUb7WDplItB0QY-zAJyLISkjOVsiaCAMX23VKKQ-6_SeiyY9pW8IvVCxaZRDf_g&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1TP6oZqRFvRjrSF73H_mJ-1JGTpqtrkaoEUFNiGKVScd4WSwI38zVhGShU_TodZPAjo&usqp=CAU" alt="react" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="git" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1485/1485231.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
+</p>
+
+</br>
+
+
+## 9. Booking Slot Backend Project
+
+### Source Code:  https://github.com/bidyut10/book_cab_slot <br/>
+### Features 
+* This project likely involves creating a RESTful API that handles slot booking.It includes a function called SlotPost which handles the POST request to create a new slot. The function includes several checks to ensure that the required fields are included in the request body, the time format is correct, the time range is valid, the date is in the correct format, and the requested slot does not conflict with any existing slots in the database. If all checks pass, the function creates the slot in the database and returns a success message. If any errors occur during the process, an appropriate error message is returned.
+
+### Tech Stack 
+<p align="left">
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz7EiUUb7WDplItB0QY-zAJyLISkjOVsiaCAMX23VKKQ-6_SeiyY9pW8IvVCxaZRDf_g&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="bootstrap" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1485/1485231.png" alt="git" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
+</p>
+
+</br>
+
+
+
+
+
+</br>
+
+
 📫 How to reach me 
 
 **bidyut34268@gmail.com**
