@@ -18,19 +18,19 @@ Worked with Typescript and WebSocket.io to improve application functionality and
 🧑‍💻**Backend Stack**   
 <p align="left">
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.imgbin.com/1/18/9/imgbin-node-js-javascript-database-mongodb-native-MznsPpw43gVjLGaCqfjtzBLP8.jpg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/> </a> 
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz7EiUUb7WDplItB0QY-zAJyLISkjOVsiaCAMX23VKKQ-6_SeiyY9pW8IvVCxaZRDf_g&usqp=CAU" alt="" width="40" height="40" /> </a> 
+<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU" alt="" width="40" height="40" /> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1485/1485231.png" alt="git" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png" alt="javascript" width="40" height="40"/> </a> <a href="_" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="ts" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" alt="javascript" width="40" height="40"/> </a> <a href="_" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="ts" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
 </p>
 
 💻**Frontend Stack**   
 <p align="left"> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.citypng.com/public/uploads/preview/download-html5-round-logo-icon-png-116622246089xqzopcuvg.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png" alt="css3" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="css3" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://shadowblood.gallerycdn.vsassets.io/extensions/shadowblood/tailwind-moon/3.0.2/1673948732518/Microsoft.VisualStudio.Services.Icons.Default" alt="express" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/> </a> 
 </p>
