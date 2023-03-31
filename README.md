@@ -141,8 +141,7 @@ Experienced MERN stack developer skilled in MongoDB, Express, React, and Node.js
 
 ### Source Code:  https://github.com/bidyut10/project-productsManagementGroup.git <br/>
 ### Features 
-* Developed a reliable and scalable platform for managing and operating an online store.
- <br/>
+* Developed a reliable and scalable platform for managing and operating an online store. <br/>
 * Used modern technologies to enable efficient and effective management of the store and provide a seamless experience for customers. <br/>
 * Implemented features like user authentication, cart management, and order processing JWT (JSON Web Token) and bcrypt for secure password hashing. <br/>
 * Utilized AWS S3 for storing and managing files like product images and other media.
