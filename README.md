@@ -1,11 +1,11 @@
 # Hello, I'm Bidyut Kundu
-Experienced MERN stack developer skilled in MongoDB, Express, React, and Node.js. Strong problem-solving skills and collaborative mindset, delivering high-quality web applications on time and within budget. Committed to creating intuitive user interfaces and staying up-to-date with industry trends and technologies.
+Experienced MERN stack developer skilled in MongoDB, Express, React, and Node.js. Strong problem-solving skills and collaborative mindset, delivering high-quality web applications on time and within budget. I am committed to creating intuitive user interfaces and staying up-to-date with industry trends and technologies.
 <br/>
 
 # EXPERIENCE 
 ## FunctionUp || Backend Developer Trainee (Internship)     [May 22- FEB 23]
 
-* Developed industry-ready backend systems using Node.js, Express.js, and MongoDB and maintained RESTful APIs for frontend developers to consume.
+* Developed industry-ready backend systems using Node.js, Express.js, and MongoDB and maintained RESTful APIs for front-end developers to consume.
 * Creating and maintaining database schemas using Mongoose.
 * Implemented server protection measures, input validation techniques, and JWT authentication for enhanced security in the backend system.
 * Ensuring code quality and best practices are followed.
