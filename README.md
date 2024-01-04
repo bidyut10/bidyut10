@@ -37,6 +37,10 @@ Experienced MERN stack developer skilled in MongoDB, Express, React, and Node.js
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" alt="javascript" width="40" height="40"/> </a> <a href="_" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="ts" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="[https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png](https://w7.pngwing.com/pngs/230/125/png-transparent-postgresql-relational-database-management-system-microsoft-sql-server-others-blue-logo-programming-language.png)" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="[https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png](https://www.confluent.io/hub/static/7452009e4e366be982592973792d8223/b6d35/cockroachdb-icon.png)" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="[https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png](https://images.ctfassets.net/vwq10xzbe6iz/tnwT7PN9aBmT7vgkTtGhV/940f001eb249a42904cd40e64d13c7e9/passportJS-300x300.png?h=250)" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a>
 </p>
 
 ### Frontend Stack 
