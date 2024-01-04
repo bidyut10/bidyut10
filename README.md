@@ -3,6 +3,15 @@ Experienced MERN stack developer skilled in MongoDB, Express, React, and Node.js
 <br/>
 
 # EXPERIENCE 
+##  CONAS CONSULTING PRIVATE LIMITED || Associate Software Developer     [April 2023 - Present]
+
+*  Collaborated within cross-functional teams to conceive, develop, and maintain advanced web applications, utilizing the complete stack of Express.js, React, Node.js, and PostgreSQL.
+*  Engaged actively throughout the software development lifecycle, encompassing meticulous requirement analysis, intricate coding, rigorous testing, seamless deployment, and vigilant maintenance.
+*  Played an instrumental role in the creation and seamless integration of RESTful APIs, along with the incorporation of external APIs, enhancing application functionality and utility.
+*  Utilized Passport.js for robust authentication and authorization mechanisms, ensuring secure access control for users and sensitive data.
+
+
+<br/>
 ## FunctionUp || Backend Developer Trainee (Internship)     [May 22- FEB 23]
 
 * Developed industry-ready backend systems using Node.js, Express.js, and MongoDB and maintained RESTful APIs for front-end developers to consume.
