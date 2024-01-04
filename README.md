@@ -12,6 +12,7 @@ Experienced MERN stack developer skilled in MongoDB, Express, React, and Node.js
 
 
 <br/>
+
 ## FunctionUp || Backend Developer Trainee (Internship)     [May 22- FEB 23]
 
 * Developed industry-ready backend systems using Node.js, Express.js, and MongoDB and maintained RESTful APIs for front-end developers to consume.
