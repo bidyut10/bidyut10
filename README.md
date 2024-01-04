@@ -37,10 +37,10 @@ Experienced MERN stack developer skilled in MongoDB, Express, React, and Node.js
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" alt="javascript" width="40" height="40"/> </a> <a href="_" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="ts" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="[https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png](https://w7.pngwing.com/pngs/230/125/png-transparent-postgresql-relational-database-management-system-microsoft-sql-server-others-blue-logo-programming-language.png)" alt="" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="[https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png](https://www.confluent.io/hub/static/7452009e4e366be982592973792d8223/b6d35/cockroachdb-icon.png)" alt="" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="[https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png](https://images.ctfassets.net/vwq10xzbe6iz/tnwT7PN9aBmT7vgkTtGhV/940f001eb249a42904cd40e64d13c7e9/passportJS-300x300.png?h=250)" alt="" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/vwq10xzbe6iz/tnwT7PN9aBmT7vgkTtGhV/940f001eb249a42904cd40e64d13c7e9/passportJS-300x300.png?h=250" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi58Z7_skkLJdGVHxDDLpvCavfiXevTUb8CUVxvaTMMp9n976DUHDzM96HqiOVHQZaWYQ&usqp=CAU" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/230/125/png-transparent-postgresql-relational-database-management-system-microsoft-sql-server-others-blue-logo-programming-language.png" alt="" width="40" height="40"/> </a>
+
 </p>
 
 ### Frontend Stack 
@@ -49,6 +49,7 @@ Experienced MERN stack developer skilled in MongoDB, Express, React, and Node.js
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="css3" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://shadowblood.gallerycdn.vsassets.io/extensions/shadowblood/tailwind-moon/3.0.2/1673948732518/Microsoft.VisualStudio.Services.Icons.Default" alt="express" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="" width="40" height="40"/> </a>
 </p>
 
 ### Familiar With
@@ -59,12 +60,16 @@ Experienced MERN stack developer skilled in MongoDB, Express, React, and Node.js
 <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1TP6oZqRFvRjrSF73H_mJ-1JGTpqtrkaoEUFNiGKVScd4WSwI38zVhGShU_TodZPAjo&usqp=CAU" alt="react" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/5e/fd/4e/5efd4e04173b52c1c4d1f459679bf7fb.png" alt="" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://marketplace.radiantlogic.com/wp-content/uploads/bw_store_facet_images/bw_ad_azure_bw_ad_azure-900x0.png" alt="" width="40" height="40"/> </a>
 </p>
 
 
 ### Tools
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://icao.gallerycdn.vsassets.io/extensions/icao/electron-vue/3.2.0/1656576781824/Microsoft.VisualStudio.Services.Icons.Default" alt="" width="40" height="40"/> </a> 
 <a href="/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/original/openai-chatgpt-logo-icon-free-png.png" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" alt="" width="40" height="40"/> </a>
+
 </p>
 
 
