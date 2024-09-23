@@ -1,25 +1,18 @@
 # Hello, I'm Bidyut Kundu
-Experienced MERN stack developer skilled in MongoDB, Express, React, and Node.js. Strong problem-solving skills and collaborative mindset, delivering high-quality web applications on time and within budget. I am committed to creating intuitive user interfaces and staying up-to-date with industry trends and technologies.
+I am a Software Developer at Conas, focused on building efficient server-side applications and integrating third-party services. With expertise in API development and database management, I excel at creating scalable, high-performance systems. Passionate about solving complex challenges, I stay updated with the latest technologies to deliver impactful, data-driven solutions. Eager to continuously learn and grow, I thrive in collaborative environments and am always ready to take on new opportunities.
 <br/>
 
 # EXPERIENCE 
 ##  CONAS CONSULTING PRIVATE LIMITED || Associate Software Developer     [April 2023 - Present]
 
-*  Collaborated within cross-functional teams to conceive, develop, and maintain advanced web applications, utilizing the complete stack of Express.js, React, Node.js, and PostgreSQL.
-*  Engaged actively throughout the software development lifecycle, encompassing meticulous requirement analysis, intricate coding, rigorous testing, seamless deployment, and vigilant maintenance.
-*  Played an instrumental role in the creation and seamless integration of RESTful APIs, along with the incorporation of external APIs, enhancing application functionality and utility.
-*  Utilized Passport.js for robust authentication and authorization mechanisms, ensuring secure access control for users and sensitive data.
-
-
-<br/>
-
-## FunctionUp || Backend Developer Trainee (Internship)     [May 22- FEB 23]
-
-* Developed industry-ready backend systems using Node.js, Express.js, and MongoDB and maintained RESTful APIs for front-end developers to consume.
-* Creating and maintaining database schemas using Mongoose.
-* Implemented server protection measures, input validation techniques, and JWT authentication for enhanced security in the backend system.
-* Ensuring code quality and best practices are followed.
-* Worked with Typescript and WebSocket.io to improve application functionality and security.
+- **Led backend development and optimization** for advanced web applications, leveraging AWS Lambda to build microservices, ensuring high availability and scalability.
+- **Designed and integrated RESTful APIs**, including third-party API services, to extend application functionality, focusing on efficient data flow and secure communication.
+- **Developed full-stack applications** using Express.js, React, Node.js, and PostgreSQL, collaborating closely with cross-functional teams for end-to-end delivery.
+- **Enhanced application security** through AWS services, implementing IAM policies, VPCs, and AWS Security Groups, ensuring secure cloud architecture.
+- **Implemented authentication and authorization** protocols using Passport.js, securing user data and access with role-based permissions.
+- **Contributed to AWS infrastructure development**, utilizing services such as EC2, S3, Lambda, and API Gateway for deployment, scaling, and resource management.
+- **Optimized backend processes** by improving server performance, reducing latency, and ensuring smooth application operation in high-traffic environments.
+- **Followed best practices** in the software development lifecycle, from requirement analysis and coding to testing, deployment, and ongoing maintenance.
 
 
 <br/>
