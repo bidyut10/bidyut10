@@ -3,7 +3,7 @@ I am a Software Developer at Conas, focused on building efficient server-side ap
 <br/>
 
 # EXPERIENCE 
-##  CONAS CONSULTING PRIVATE LIMITED || Associate Software Developer     [April 2023 - Present]
+##  CONAS CONSULTING PRIVATE LIMITED || Software Developer     [April 2023 - Present]
 
 - **Led backend development and optimization** for advanced web applications, leveraging AWS Lambda to build microservices, ensuring high availability and scalability.
 - **Designed and integrated RESTful APIs**, including third-party API services, to extend application functionality, focusing on efficient data flow and secure communication.
