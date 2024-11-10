@@ -17,53 +17,18 @@ I am a Software Developer at Conas, focused on building efficient server-side ap
 
 <br/>
 
-# SKILLS AND TOOLS
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bidyut10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bidyut10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bidyut10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Backend Stack 
+---
+[![](https://visitcount.itsvg.in/api?id=bidyut10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz7EiUUb7WDplItB0QY-zAJyLISkjOVsiaCAMX23VKKQ-6_SeiyY9pW8IvVCxaZRDf_g&usqp=CAU" alt="" width="40" height="40" /> </a> 
-<a href=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU" alt="" width="40" height="40" /> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1485/1485231.png" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" alt="javascript" width="40" height="40"/> </a> <a href="_" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="ts" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png" alt="" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/vwq10xzbe6iz/tnwT7PN9aBmT7vgkTtGhV/940f001eb249a42904cd40e64d13c7e9/passportJS-300x300.png?h=250" alt="" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi58Z7_skkLJdGVHxDDLpvCavfiXevTUb8CUVxvaTMMp9n976DUHDzM96HqiOVHQZaWYQ&usqp=CAU" alt="" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/230/125/png-transparent-postgresql-relational-database-management-system-microsoft-sql-server-others-blue-logo-programming-language.png" alt="" width="40" height="40"/> </a>
-
-</p>
-
-### Frontend Stack 
-<p align="left"> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="css3" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://shadowblood.gallerycdn.vsassets.io/extensions/shadowblood/tailwind-moon/3.0.2/1673948732518/Microsoft.VisualStudio.Services.Icons.Default" alt="express" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="" width="40" height="40"/> </a>
-</p>
-
-### Familiar With
-  
-<p align="left"> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/314/85946bfe-0597-42b4-9dd2-24fb7f2fd438.png" alt="" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1TP6oZqRFvRjrSF73H_mJ-1JGTpqtrkaoEUFNiGKVScd4WSwI38zVhGShU_TodZPAjo&usqp=CAU" alt="react" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/5e/fd/4e/5efd4e04173b52c1c4d1f459679bf7fb.png" alt="" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://marketplace.radiantlogic.com/wp-content/uploads/bw_store_facet_images/bw_ad_azure_bw_ad_azure-900x0.png" alt="" width="40" height="40"/> </a>
-</p>
-
-
-### Tools
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://icao.gallerycdn.vsassets.io/extensions/icao/electron-vue/3.2.0/1656576781824/Microsoft.VisualStudio.Services.Icons.Default" alt="" width="40" height="40"/> </a> 
-<a href="/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/original/openai-chatgpt-logo-icon-free-png.png" alt="" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" alt="" width="40" height="40"/> </a>
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
  <br/>
