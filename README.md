@@ -1,17 +1,16 @@
 # Hello, I'm Bidyut Kundu
 
+A **Full Stack Software Developer** with two years of experience focused on building **scalable** and **secure applications**. Brings a **collaborative approach** to work, emphasizing **performance optimization** and delivering **high-quality**, **reliable solutions**.
 
-##  CONAS || Software Developer     [April 2023 - Present]
 
-- **Led backend development and optimization** for advanced web applications, leveraging AWS Lambda to build microservices, ensuring high availability and scalability.
-- **Designed and integrated RESTful APIs**, including third-party API services, to extend application functionality, focusing on efficient data flow and secure communication.
-- **Developed full-stack applications** using Express.js, React, Node.js, and PostgreSQL, collaborating closely with cross-functional teams for end-to-end delivery.
-- **Enhanced application security** through AWS services, implementing IAM policies, VPCs, and AWS Security Groups, ensuring secure cloud architecture.
-- **Implemented authentication and authorization** protocols using Passport.js, securing user data and access with role-based permissions.
-- **Contributed to AWS infrastructure development**, utilizing services such as EC2, S3, Lambda, and API Gateway for deployment, scaling, and resource management.
-- **Optimized backend processes** by improving server performance, reducing latency, and ensuring smooth application operation in high-traffic environments.
-- **Followed best practices** in the software development lifecycle, from requirement analysis and coding to testing, deployment, and ongoing maintenance.
+##  CONAS || Software Developer  [April 2023 - Present]
 
+- Developed scalable backend systems with **AWS Lambda** and microservices.
+- Integrated secure **RESTful APIs** and third-party services.
+- Built full-stack applications using **Express.js**, **React**, and **PostgreSQL**.
+- Enhanced security with **AWS IAM**, **VPCs**, and role-based access.
+- Managed **AWS infrastructure** for deployment and scaling.
+- Optimized performance for high-traffic stability.
 
 <br/>
 
