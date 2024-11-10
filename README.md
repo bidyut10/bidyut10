@@ -1,6 +1,10 @@
 # Hello, I'm Bidyut Kundu
-I am a Software Developer at Conas, focused on building efficient server-side applications and integrating third-party services. With expertise in API development and database management, I excel at creating scalable, high-performance systems. Passionate about solving complex challenges, I stay updated with the latest technologies to deliver impactful, data-driven solutions. Eager to continuously learn and grow, I thrive in collaborative environments and am always ready to take on new opportunities.
-<br/>
+
+###
+• Focused on developing scalable, high-performance full-stack applications with a strong emphasis on API development, seamless third-party service integration, and database optimization. 
+• Skilled in securing data through robust security measures and leveraging cloud services for microservices. 
+• Passionate about solving complex challenges and driving innovation through emerging technologies in collaborative environments.
+### 
 
 # EXPERIENCE 
 ##  CONAS CONSULTING PRIVATE LIMITED || Software Developer     [April 2023 - Present]
