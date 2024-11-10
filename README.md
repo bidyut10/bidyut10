@@ -1,18 +1,30 @@
 # Hello, I'm Bidyut Kundu
 
-## **Full Stack Software Developer** with two years of experience focused on building **scalable** and **secure applications**. Brings a **collaborative approach** to work, emphasizing **performance optimization** and delivering **high-quality**, **reliable solutions**.
+## **Full Stack Software Developer**  
+With 2 years of experience, I focus on building **scalable** and **secure applications**, bringing a **collaborative approach** and emphasizing **performance optimization**. I am dedicated to delivering **high-quality** and **reliable solutions**.
 
+---
 
-##  CONAS || Full Stack Software Developer  [April 2023 - Present]
+## 💼 Experience
+### **CONAS** || Full Stack Software Developer  
+**April 2023 - Present**
 
-##  - Developed scalable backend systems with **AWS Lambda** and microservices.
-##  - Integrated secure **RESTful APIs** and third-party services.
-##  - Built full-stack applications using **Express.js**, **React**, and **PostgreSQL**.
-##  - Enhanced security with **AWS IAM**, **VPCs**, and role-based access.
-##  - Managed **AWS infrastructure** for deployment and scaling.
-##  - Optimized performance for high-traffic stability.
+- Developed scalable backend systems with **AWS Lambda** and microservices.
+- Integrated secure **RESTful APIs** and third-party services.
+- Built full-stack applications with **Express.js**, **React**, and **PostgreSQL**.
+- Enhanced security using **AWS IAM**, **VPCs**, and role-based access.
+- Managed **AWS infrastructure** for efficient deployment and scaling.
+- Optimized performance for high-traffic stability.
 
-<br/>
+---
+
+## 📚 Technologies & Tools
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, AWS Lambda
+- **Database:** PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Jenkins
+- **Cloud:** AWS (EC2, S3, Lambda, IAM)
+
 
 
 # 💻 Tech Stack:
