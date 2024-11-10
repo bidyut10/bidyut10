@@ -1,16 +1,16 @@
 # Hello, I'm Bidyut Kundu
 
-A **Full Stack Software Developer** with two years of experience focused on building **scalable** and **secure applications**. Brings a **collaborative approach** to work, emphasizing **performance optimization** and delivering **high-quality**, **reliable solutions**.
+## **Full Stack Software Developer** with two years of experience focused on building **scalable** and **secure applications**. Brings a **collaborative approach** to work, emphasizing **performance optimization** and delivering **high-quality**, **reliable solutions**.
 
 
-##  CONAS || Software Developer  [April 2023 - Present]
+##  CONAS || Full Stack Software Developer  [April 2023 - Present]
 
-- Developed scalable backend systems with **AWS Lambda** and microservices.
-- Integrated secure **RESTful APIs** and third-party services.
-- Built full-stack applications using **Express.js**, **React**, and **PostgreSQL**.
-- Enhanced security with **AWS IAM**, **VPCs**, and role-based access.
-- Managed **AWS infrastructure** for deployment and scaling.
-- Optimized performance for high-traffic stability.
+##  - Developed scalable backend systems with **AWS Lambda** and microservices.
+##  - Integrated secure **RESTful APIs** and third-party services.
+##  - Built full-stack applications using **Express.js**, **React**, and **PostgreSQL**.
+##  - Enhanced security with **AWS IAM**, **VPCs**, and role-based access.
+##  - Managed **AWS infrastructure** for deployment and scaling.
+##  - Optimized performance for high-traffic stability.
 
 <br/>
 
