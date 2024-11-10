@@ -1,13 +1,7 @@
 # Hello, I'm Bidyut Kundu
 
-###
-• Focused on developing scalable, high-performance full-stack applications with a strong emphasis on API development, seamless third-party service integration, and database optimization. 
-• Skilled in securing data through robust security measures and leveraging cloud services for microservices. 
-• Passionate about solving complex challenges and driving innovation through emerging technologies in collaborative environments.
-### 
 
-# EXPERIENCE 
-##  CONAS CONSULTING PRIVATE LIMITED || Software Developer     [April 2023 - Present]
+##  CONAS || Software Developer     [April 2023 - Present]
 
 - **Led backend development and optimization** for advanced web applications, leveraging AWS Lambda to build microservices, ensuring high availability and scalability.
 - **Designed and integrated RESTful APIs**, including third-party API services, to extend application functionality, focusing on efficient data flow and secure communication.
