@@ -3,8 +3,8 @@
 
 **Full Stack Software Developer** With 2+ years of experience, I focus on building **scalable** and **secure applications**, bringing a **collaborative approach** and emphasizing **performance optimization**. I am dedicated to delivering **high-quality** and **reliable solutions**.
 
--▪️Built CodewiseAi: https://codewiseai.onrender.com — AI code reviews.
--▪️Building ChatScribe: https://chatscribe.netlify.app — Platform & npm package to create chat assistants for any website.
+- Built CodewiseAi: https://codewiseai.onrender.com — AI code reviews.
+- Building ChatScribe: https://chatscribe.netlify.app — Platform & npm package to create chat assistants for any website.
 
 
 ### **Conas Consulting Private Limited** || Software Developer [**April 2023 - Present**]
