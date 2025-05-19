@@ -1,14 +1,17 @@
 ## Hello, I'm Bidyut Kundu
 **Visit my website:** https://bidyutkundu.netlify.app/
 
-**Full Stack Software Developer** With 2 years of experience, I focus on building **scalable** and **secure applications**, bringing a **collaborative approach** and emphasizing **performance optimization**. I am dedicated to delivering **high-quality** and **reliable solutions**.
+**Full Stack Software Developer** With 2+ years of experience, I focus on building **scalable** and **secure applications**, bringing a **collaborative approach** and emphasizing **performance optimization**. I am dedicated to delivering **high-quality** and **reliable solutions**.
+
+▪️Built CodewiseAi: https://codewiseai.onrender.com — AI code reviews.
+▪️Building ChatScribe: https://chatscribe.netlify.app — Platform & npm package to create chat assistants for any website.
 
 
-### **CONAS** || Full Stack Software Developer [**April 2023 - Present**]
+### **Conas Consulting Private Limited** || Software Developer [**April 2023 - Present**]
 
-- Developed and optimized **scalable full-stack applications** using a variety of technologies and **AWS Lambda**.
-- Integrated and secured **RESTful APIs**, enhancing functionality and data flow.
-- Managed **cloud infrastructure**, optimized performance, and ensured **high-traffic stability**.
+-Built client-facing apps using a React/Node.js and serverless AWS Lambda architecture, which helped cut hosting costs by 40% and automatically scale during traffic spikes — the solution received great feedback from both users and the founder.
+-Took full ownership of 5 end-to-end projects — from gathering client requirements and designing the system architecture to testing with K6 and continuously improving features after launch.
+-Collaborated closely with the product team in agile sprints to deliver a complex engineering project on time and within budget — managed timelines, reviewed code, and handled deployments in a fast-paced environment.
 
 ### **Frontend Tech Stack**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  
