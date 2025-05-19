@@ -5,6 +5,7 @@
 
 - Built CodewiseAi: https://codewiseai.onrender.com — AI code reviews.
 - Building ChatScribe: https://chatscribe.netlify.app — Platform & npm package to create chat assistants for any website.
+- Built CutUrl: https://cuturl-oi0x.onrender.com — Simple & Lightning-Fast One-Click URL Shortener
 
 
 ### **Conas Consulting Private Limited** || Software Developer [**April 2023 - Present**]
@@ -27,4 +28,4 @@
 
  <br/>
 
-### ✉ Connect with me  **bidyut34268@gmail.com**
+### ✉ Connect with me  **bidyut.kundu.dev@gmail.com**
