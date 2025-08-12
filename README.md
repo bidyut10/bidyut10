@@ -4,6 +4,7 @@
 **Full Stack Software Developer** With 2+ years of experience, I focus on building **scalable** and **secure applications**, bringing a **collaborative approach** and emphasizing **performance optimization**. I am dedicated to delivering **high-quality** and **reliable solutions**.
 
 - Built CodewiseAi: https://codewiseai.onrender.com — AI code reviews.
+- Building CorporateAi: https://corporateai.in — AI-powered hiring & job management system.
 - Building ChatScribe: https://chatscribe.netlify.app — Platform & npm package to create chat assistants for any website.
 - Built CutUrl: https://cuturl-oi0x.onrender.com — Simple & Lightning-Fast One-Click URL Shortener
 
