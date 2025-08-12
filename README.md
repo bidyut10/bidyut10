@@ -11,9 +11,13 @@
 
 ### **Conas Consulting Private Limited** || Software Developer [**April 2023 - Present**]
 
-- Built client-facing apps using a React/Node.js and serverless AWS Lambda architecture, which helped cut hosting costs by 40% and automatically scale during traffic spikes — the solution received great feedback from both users and the founder.
-- Took full ownership of 5 end-to-end projects — from gathering client requirements and designing the system architecture to testing with K6 and continuously improving features after launch.
-- Collaborated closely with the product team in agile sprints to deliver a complex engineering project on time and within budget — managed timelines, reviewed code, and handled deployments in a fast-paced environment.
+- Built and deployed client-facing web apps using React, Node.js, and AWS Lambda, reducing hosting costs by 40% and improving scalability.
+
+- Led 5+ full-stack projects end-to-end — from gathering requirements and designing systems to testing with K6 and handling production deployments.
+
+- Collaborated in agile sprints with product and design teams, reviewed code, managed timelines, and delivered features on schedule.
+
+- Integrated secure JWT and OAuth 2.0 authentication, and built robust REST APIs using Express.js — with focus on clean architecture and maintainability.
 
 ### **Frontend Tech Stack**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  
