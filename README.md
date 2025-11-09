@@ -6,7 +6,7 @@
 - Built CodewiseAi: https://codewiseai.onrender.com — AI code reviews.
 - Building CorporateAi: https://corporateai.in — AI-powered hiring & job management system.
 - Building ChatScribe: https://chatscribe.netlify.app — Platform & npm package to create chat assistants for any website.
-- Built CutUrl: https://cuturl-oi0x.onrender.com — Simple & Lightning-Fast One-Click URL Shortener
+- Built Wcut: https://wcut.netlify.app — Simple & Lightning-Fast One-Click URL Shortener
 
 
 ### **Conas Consulting Private Limited** || Software Developer [**April 2023 - Present**]
