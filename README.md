@@ -1,24 +1,3 @@
-## Hello, I'm Bidyut Kundu
-**Visit my website:** https://bidyutkundu.netlify.app
-
-**Full Stack Software Developer** With 2+ years of experience, I focus on building **scalable** and **secure applications**, bringing a **collaborative approach** and emphasizing **performance optimization**. I am dedicated to delivering **high-quality** and **reliable solutions**.
-
-- Built CodewiseAi: https://codewiseai.onrender.com — AI code reviews.
-- Building CorporateAi: https://corporateai.in — AI-powered hiring & job management system.
-- Building ChatScribe: https://chatscribe.netlify.app — Platform & npm package to create chat assistants for any website.
-- Built Wcut: https://wcut.netlify.app — Simple & Lightning-Fast One-Click URL Shortener
-
-
-### **Conas Consulting Private Limited** || Software Developer [**April 2023 - Present**]
-
-- Built and deployed client-facing web apps using React, Node.js, and AWS Lambda, reducing hosting costs by 40% and improving scalability.
-
-- Led 5+ full-stack projects end-to-end — from gathering requirements and designing systems to testing with K6 and handling production deployments.
-
-- Collaborated in agile sprints with product and design teams, reviewed code, managed timelines, and delivered features on schedule.
-
-- Integrated secure JWT and OAuth 2.0 authentication, and built robust REST APIs using Express.js — with focus on clean architecture and maintainability.
-
 ### **Frontend Tech Stack**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  
 
