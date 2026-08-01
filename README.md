@@ -1,7 +1,5 @@
 #### Hey, I'm Bidyut. 
-3.5+ years shipping full-stack features at a startup. Backend by trade, frontend by choice.
-
-See what I'm working on — [bidyut.cc](https://bidyut.cc)
+3.5+ years shipping full-stack features at a startup. Backend by trade, frontend by choice. Get to know me— [bidyut.cc](https://bidyut.cc)
 
 ---
 
@@ -10,12 +8,11 @@ See what I'm working on — [bidyut.cc](https://bidyut.cc)
 > 150+ free React&Next.js premium components , hand-drawn style. Launched July 2026.
 
 - 9,400+ page views in 3 weeks
-- 13 min avg session
-- 800+ unique visitors
+- 800+ developers exploring components, averaging 13 min per session
 
-[![Visit](https://img.shields.io/badge/opensourceui.in-000?style=for-the-badge)](https://opensourceui.in)
-[![GitHub Stars](https://img.shields.io/github/stars/bidyut10/opensourceui?style=for-the-badge&logo=github)](https://github.com/bidyut10/opensourceui)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/bidyut10)
+[![Visit](https://img.shields.io/badge/opensourceui.in-black?style=for-the-badge&logoColor=white)](https://opensourceui.in)
+[![⭐ Star](https://img.shields.io/github/stars/bidyut10/opensourceui?style=for-the-badge&color=FFD700&logo=github&logoColor=white&label=⭐%20Star%20it)](https://github.com/bidyut10/opensourceui)
+[![Sponsor](https://img.shields.io/badge/Sponsor_me-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/bidyut10)
 
 ---
 
