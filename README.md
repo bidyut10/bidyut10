@@ -12,7 +12,7 @@ See what I'm building — [bidyut.cc](https://bidyut.cc)
 
 **[NextIcons](https://nexticons.in)** — 500+ icons as SVG, JSX or TSX, no dependencies. Has an in-browser pixel editor too.
 
-**[Codewise](https://codewiseai.onrender.com)** — Paste your GitHub commit, get structured AI code review back.
+**[Codewise AI](https://codewiseai.onrender.com)** — Paste your GitHub commit, get structured AI code review back.
 
 **[Authscale](https://authscale.netlify.app)** — One command to get a production-ready Express backend with auth already set up.
 
