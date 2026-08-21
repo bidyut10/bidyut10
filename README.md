@@ -7,7 +7,7 @@
 
 > 150+ free React&Next.js premium components , hand-drawn style. Launched July 2026.
 
-- 30K+ page views, 2.5K+ developers in 6 weeks
+- 40K+ page views, 3K+ developers in 6 weeks
 - Most spend 14+ minutes — enough time to find something worth using
 
 [![Visit](https://img.shields.io/badge/opensourceui.in-black?style=for-the-badge&logoColor=white)](https://opensourceui.in)
